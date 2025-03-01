@@ -1,0 +1,6 @@
+@import "tailwindcss";
+ 
+.custom-height {
+    height: 20px !important;
+  }
+  
