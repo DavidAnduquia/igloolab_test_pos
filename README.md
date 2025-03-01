@@ -84,49 +84,56 @@ npm run android
 
 ## CAPTURAS BACKEND
 
-Api lista de productos
+## Api lista de productos
 ![Lista de productos](assets/evid_backend/1.png)
 
-Api crear producto
+## Api crear producto
 ![Nuevo producto](assets/evid_backend/2.png)
 
-Api editar producto
+## Api editar producto
 ![Lista de items](assets/evid_backend/3.png)
 
 
 ## CAPTURA FRONTEND
 
+## Lista de items
 ![Lista de items](assets/evid_frontend/1.png)
 
+## Editar item
 ![Editar item](assets/evid_frontend/2.png)
 
+## Confirmar item editado
 ![Confirmar item editado](assets/evid_frontend/3.png)
 
+## Validacion de inputs
 ![Validacion de inputs](assets/evid_frontend/4.png)
 
+## Creación un nuevo producto
 ![Creación un nuevo producto](assets/evid_frontend/5.png)
 
+## Modal de confirmación para eliminar
 ![Modal de confirmación para eliminar](assets/evid_frontend/6.png)
 
-![Confirmar item eliminado - inactivo ](assets/evid_frontend/7.png)
+## Confirmar item eliminado - inactivo
+![Confirmar item eliminado - inactivo](assets/evid_frontend/7.png)
 
 
 
 ## CAPTURAS MOVIL - EMULADOR ANDROID
 
-Listado de items
+## Listado de items
 ![Lista de items](assets/evid_movil/1.png)
 
-Edición de un item
+## Edición de un item
 ![Editar item](assets/evid_movil/2.png)
 
-Confirmación item editado
+## Confirmación item editado
 ![Item editado](assets/evid_movil/3.png)
 
-Agregar un nuevo item
+## Agregar un nuevo item
 ![Nuevo items](assets/evid_movil/4.png)
 
-Confirmación de item agregado
+## Confirmación de item agregado
 ![Confirmar item agregado](assets/evid_movil/5.png)
 
 
