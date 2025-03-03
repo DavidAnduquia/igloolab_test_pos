@@ -52,7 +52,7 @@ INSERT INTO products (name, description, price, status) VALUES
 ```
 
 # Verificar variables de entorno para la conexion a la base de datos
-## en el archivo que esta en la raiz .env
+## en el archivo que esta en la raiz .env del backend 
 
 ```
 PORT=...
