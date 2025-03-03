@@ -22,7 +22,15 @@ Todos los proyectos se ejecutan bajo un entorno Node.js. Los pasos para ejecutar
 
 ### Configuración de la base de datos (PostgreSQL):
 
-Ejecuta el siguiente script en PostgreSQL para crear la tabla de productos e insertar datos de ejemplo:
+Configure docker, descargue la imagen de PostgreSQL
+
+Ejecute en un terminal de comandos:
+- docker pull postgres
+- docker run --name postgres-container -e POSTGRES_DB=postgres -e POSTGRES_USER=postgres -e POSTGRES_PASSWORD=password -p 5432:5432 -d postgres
+- Una vez iniciado el contenedor Docker, Abro un gestor de base de datos 'DBEAVER'
+- Creo una conexion de la base de datos 
+- Abro el script
+- Ejecuta el siguiente script en PostgreSQL para crear la tabla de productos e insertar datos de ejemplo:
 
 ```sql
 CREATE TABLE products (
