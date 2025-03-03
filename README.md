@@ -5,7 +5,7 @@ Todos los proyectos se ejecutan bajo un entorno Node.js. Los pasos para ejecutar
 ## Pasos generales:
 
 1. Ingresar al proyecto de interés:
-    - `../react-movil`
+    - `../reactmovil`
     - `../backend`
     - `../frontend`
 
